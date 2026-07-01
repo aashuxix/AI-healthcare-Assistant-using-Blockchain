@@ -1,0 +1,3 @@
+backend/server/app/Appointment_chatbot/*.json
+.env
+.env.*
